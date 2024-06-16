@@ -4,7 +4,16 @@ Hi 👋 My name is Alexandra
 I'm a Flutter Developer
 -----------------------
 
-I've been learning programming for an year, I'm driven by a passionate desire for growth and a keen interest in learning new technologies. My hard skills are: - Dart - Flutter - Ui/Ux basic - Api Integration - Provider, Bloc - Firebase integration - Git - Ability to update Flutter and Packages without all hell breaking loose
+I've been learning programming for an year, I'm driven by a passionate desire for growth and a keen interest in learning new technologies. 
+My hard skills are: 
+- Dart
+- Flutter
+- Ui/Ux basic 
+- Api Integration
+- Provider, Bloc
+- Firebase integration
+- Git
+- Ability to update Flutter and Packages without all hell breaking loose
 
 * 🌍  I'm based in Moscow but I'm ready to move in any part of the world
 * 🖥️  See my portfolio at [GitHub](http://https://github.com/Alexaneva?tab=repositories)
