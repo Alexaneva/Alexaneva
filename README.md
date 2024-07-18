@@ -11,7 +11,6 @@ My hard skills are:
 - Flutter
 - Ui/Ux basic 
 - Api Integration
-- Provider, Bloc
 - Firebase integration
 - Git
 - Ability to update Flutter and Packages without all hell breaking loose
@@ -19,8 +18,8 @@ My hard skills are:
 * 🌍  I'm based in Moscow but I'm ready to move in any part of the world
 * 🖥️  See my portfolio at [GitHub](http://https://github.com/Alexaneva?tab=repositories)
 * ✉️  You can contact me at [pushkaryova@outlook.com](mailto:pushkaryova@outlook.com)
-* 🚀  I'm currently studying how to create AI app using Flutter with TensorFlow Lite
-* 🧠  I'm learning Kotlin
+* 🚀  I'm currently trying to go deeper into Provider and Bloc 
+* 🧠  Also I'm interesting in Kotlin
 * 🤝  I'm open to collaborating on any interesting projects
 * ⚡  After 14 years of professional ballet and 7 years of work expirience in the oil and gas industry, I finally know what I want to be when I grow up
 
