@@ -12,6 +12,7 @@ My hard skills are:
 - Ui/Ux basic 
 - Api Integration
 - Firebase integration
+- State management
 - Git
 - Ability to update Flutter and Packages without all hell breaking loose
 
