@@ -9,7 +9,7 @@ I've been learning programming for an year, I'm driven by a passionate desire fo
 My hard skills are: 
 - Dart
 - Flutter
-- Ui/Ux basic 
+- Ui/Ux 
 - Api Integration
 - Firebase integration
 - State management
