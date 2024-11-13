@@ -16,7 +16,6 @@ My hard skills are:
 - Git
 - Ability to update Flutter and Packages without all hell breaking loose
 
-* 🌍  I'm based in Moscow but I'm ready to move in any part of the world
 * 🖥️  See my portfolio at [GitHub](http://https://github.com/Alexaneva?tab=repositories)
 * ✉️  You can contact me at [pushkaryova@outlook.com](mailto:pushkaryova@outlook.com)
 * 🧠  Also I'm interesting in Kotlin
