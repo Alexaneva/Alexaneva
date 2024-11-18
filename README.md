@@ -4,7 +4,7 @@ Hello 👋 My name is Alexandra
 I'm a Flutter Developer
 -----------------------
 
-I've been learning programming for an year, I'm driven by a passionate desire for growth and a keen interest in learning new technologies. 
+I'm driven by a passionate desire for growth and a keen interest in learning new technologies. 
 
 My hard skills are: 
 - Dart
